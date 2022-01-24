@@ -1,0 +1,1541 @@
+﻿Log file open, 01/24/22 04:19:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPS
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.422919
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) Vega 8 Graphics 
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/FPS/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/FPS/Saved/Config/Windows/Engine.ini]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/FPS/Saved/Config/Windows/Engine.ini]
+[2022.01.23-21.19.53:992][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/FPS/Saved/Config/Windows/Engine.ini]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/FPS/Saved/Config/Windows/Engine.ini]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.23-21.19.53:992][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/FPS/Saved/Config/Windows/Engine.ini]
+[2022.01.23-21.19.53:992][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/FPS/Saved/Config/Windows/Engine.ini]
+[2022.01.23-21.19.54:007][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.23-21.19.54:007][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.23-21.19.54:008][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.23-21.19.54:009][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.23-21.19.54:009][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.23-21.19.54:010][  0]LogHAL: Display: Platform has ~ 15 GB [16040079360 / 17179869184 / 15], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.23-21.19.54:010][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.23-21.19.54:010][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.23-21.19.54:010][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/FPS/Saved/Config/Windows/Scalability.ini]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.23-21.19.54:011][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.23-21.19.54:012][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.23-21.19.54:012][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.23-21.19.54:012][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.23-21.19.54:012][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/FPS/Saved/Config/Windows/Engine.ini]
+[2022.01.23-21.19.54:012][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/FPS/Saved/Config/Windows/Editor.ini]
+[2022.01.23-21.19.54:013][  0]LogInit: Computer: LAPTOP-PN9UII8D
+[2022.01.23-21.19.54:013][  0]LogInit: User: clark
+[2022.01.23-21.19.54:013][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.01.23-21.19.54:013][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.23-21.19.54:013][  0]LogMemory: Memory total: Physical=14.9GB (15GB approx)
+[2022.01.23-21.19.54:013][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.23-21.19.54:013][  0]LogMemory: Process Physical Memory: 142.17 MB used, 142.17 MB peak
+[2022.01.23-21.19.54:013][  0]LogMemory: Process Virtual Memory: 126.77 MB used, 126.77 MB peak
+[2022.01.23-21.19.54:013][  0]LogMemory: Physical Memory: 4476.43 MB used,  10820.59 MB free, 15297.01 MB total
+[2022.01.23-21.19.54:013][  0]LogMemory: Virtual Memory: 134205176.00 MB used,  12552.89 MB free, 134217728.00 MB total
+[2022.01.23-21.19.54:022][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.23-21.19.54:120][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.23-21.19.54:124][  0]LogInit: Using OS detected language (ru-RU).
+[2022.01.23-21.19.54:124][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.01.23-21.19.54:134][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.01.23-21.19.54:135][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.01.23-21.19.54:135][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.01.23-21.19.54:135][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.01.23-21.19.54:135][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.01.23-21.19.54:135][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.01.23-21.19.54:135][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.01.23-21.19.54:135][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.01.23-21.19.54:138][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.23-21.19.54:155][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.23-21.19.54:198][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.23-21.19.54:198][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.23-21.19.54:532][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.23-21.19.54:538][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.23-21.19.54:538][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.23-21.19.54:538][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.23-21.19.54:538][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.23-21.19.54:596][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2022.01.23-21.19.54:596][  0]LogD3D11RHI:       1009/0/7648 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2022.01.23-21.19.54:599][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.23-21.19.54:599][  0]LogD3D11RHI:       0/0/7648 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI:    2. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI:       1009/0/7648 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Vega 8 Graphics
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI:     DeviceId    : 15d8
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI:     SubSysId    : 3e1419e5
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI:     Revision    : 00c2
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI:     DedicatedVideoMemory : 1059020800 bytes
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI:     SharedSystemMemory : 8020039680 bytes
+[2022.01.23-21.19.54:649][  0]LogD3D11RHI:     AdapterLuid : 0 610860700
+[2022.01.23-21.19.54:659][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.23-21.19.54:659][  0]LogD3D11RHI:     GPU DeviceId: 0x15d8 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.23-21.19.54:659][  0]LogWindows: EnumDisplayDevices:
+[2022.01.23-21.19.54:659][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:1)
+[2022.01.23-21.19.54:659][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics ' (P:1 D:1)
+[2022.01.23-21.19.54:660][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:0)
+[2022.01.23-21.19.54:660][  0]LogWindows:    3. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:0)
+[2022.01.23-21.19.54:661][  0]LogWindows:    4. 'AMD Radeon(TM) Vega 8 Graphics ' (P:0 D:0)
+[2022.01.23-21.19.54:661][  0]LogWindows:    5. 'Virtual Display Device' (P:0 D:0)
+[2022.01.23-21.19.54:662][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.01.23-21.19.54:662][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Vega 8 Graphics
+[2022.01.23-21.19.54:662][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.01.23-21.19.54:662][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.01.23-21.19.54:662][  0]LogRHI: Texture pool is 5578 MB (70% of 7969 MB)
+[2022.01.23-21.19.54:686][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2022.01.23-21.19.54:686][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Vega 8 Graphics
+[2022.01.23-21.19.54:686][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.01.23-21.19.54:686][  0]LogD3D11RHI:     DeviceId    : 15d8
+[2022.01.23-21.19.54:686][  0]LogD3D11RHI:     SubSysId    : 3e1419e5
+[2022.01.23-21.19.54:686][  0]LogD3D11RHI:     Revision    : 00c2
+[2022.01.23-21.19.54:686][  0]LogD3D11RHI:     DedicatedVideoMemory : 1059020800 bytes
+[2022.01.23-21.19.54:686][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.23-21.19.54:686][  0]LogD3D11RHI:     SharedSystemMemory : 8020039680 bytes
+[2022.01.23-21.19.54:686][  0]LogD3D11RHI:     AdapterLuid : 0 610860700
+[2022.01.23-21.19.54:738][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2022.01.23-21.19.54:738][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.23-21.19.54:738][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.23-21.19.54:738][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.23-21.19.54:774][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.01.23-21.19.55:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.23-21.19.55:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.23-21.19.55:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.23-21.19.55:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.23-21.19.55:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.23-21.19.55:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.23-21.19.55:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.23-21.19.55:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.23-21.19.55:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.23-21.19.55:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.23-21.19.55:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.23-21.19.55:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.23-21.19.55:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.23-21.19.55:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.23-21.19.55:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.23-21.19.55:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.23-21.19.55:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.23-21.19.55:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.23-21.19.55:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.23-21.19.55:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.23-21.19.55:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.23-21.19.55:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.23-21.19.55:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.23-21.19.55:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.23-21.19.55:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.23-21.19.55:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.23-21.19.55:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.23-21.19.55:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.23-21.19.55:617][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.23-21.19.55:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.23-21.19.55:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.23-21.19.55:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.23-21.19.55:642][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.23-21.19.55:659][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.23-21.19.55:723][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.23-21.19.55:822][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.23-21.19.55:823][  0]LogShaderCompilers: Guid format shader working directory is 30 characters bigger than the processId version (../../../../FPS/Intermediate/Shaders/WorkingDirectory/16372/).
+[2022.01.23-21.19.55:823][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/clark/AppData/Local/Temp/UnrealShaderWorkingDir/55AAE18B4D123142E43913B5BC692F68/'.
+[2022.01.23-21.19.55:824][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.23-21.19.55:824][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.23-21.19.55:824][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.23-21.19.56:867][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.23-21.19.56:955][  0]LogDerivedDataCache: Loaded boot cache 0.09s 94MB C:/Users/clark/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.23-21.19.56:955][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/clark/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.23-21.19.56:955][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../FPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.23-21.19.56:955][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.23-21.19.56:956][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../FPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.23-21.19.56:956][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.23-21.19.56:981][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.23-21.19.56:981][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.23-21.19.56:981][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.23-21.19.57:000][  0]LogDerivedDataCache: Speed tests for C:/Users/clark/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.01.23-21.19.57:001][  0]LogDerivedDataCache: Display: Performance to C:/Users/clark/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.19ms. RandomReadSpeed=177.20MBs, RandomWriteSpeed=72.59MBs. Assigned SpeedClass 'Local'
+[2022.01.23-21.19.57:001][  0]LogDerivedDataCache: Using Local data cache path C:/Users/clark/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.23-21.19.57:002][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.23-21.19.57:002][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.23-21.19.57:071][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.23-21.19.57:073][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.23-21.19.57:115][  0]LogAssetRegistry: FAssetRegistry took 0.0060 seconds to start up
+[2022.01.23-21.19.57:590][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.23-21.19.57:590][  0]LogInit: Active device profile: [00000159A4743F00][00000159A558B080 49] Windows
+[2022.01.23-21.19.57:590][  0]LogInit: Profiles: [00000159A4743F00][00000159A558B080 49] Windows, [00000159A474FF00][00000159A301F200 49] WindowsNoEditor, [00000159A4740500][00000159A3023380 49] WindowsServer, [00000159A474C600][00000159A3027500 49] WindowsClient, [00000159A4743D00][00000159A3189680 49] IOS, [00000159A474C100][00000159A318D800 49] iPadAir, [00000159A4740200][00000159A3191980 49] iPadAir2, [00000159A46C9200][00000159A31980C0 49] IPadPro, [00000159A46C9300][00000159A3194100 49] iPadAir3, [00000159A4743B00][00000159A2FBA280 49] iPadAir4, [00000159A46C8700][00000159A2FDC400 49] iPadMini2, [00000159A4740400][00000159A301A540 49] iPadMini3, [00000159A46C9700][00000159A540A680 49] iPadMini4, [00000159A4743A00][00000159A540E7C0 49] iPadMini5, [00000159A474D300][00000159A541AA40 49] iPhone6, [00000159A474D400][00000159A5412A80 49] iPodTouch6, [00000159A46CBB00][00000159A5422D40 49] iPhone7, [00000159A46CBA00][00000159A541ED80 49] iPodTouch7, [00000159A474C900][00000159A5426F00 49] iPhone5S, [00000159A46C8C00][00000159A542B080 49] iPhone6Plus, [00000159A474D800][00000159A542F200 49] iPhone6S, [00000159A46CB800][00000159A5433380 49] iPhone6SPlus, [00000159A474CC00][00000159A5A1B500 49] iPhone7Plus, [00000159A46C9100][00000159A5AB9680 49] iPhoneSE, [00000159A474DA00][00000159A5ABD800 49] iPhone8, [00000159A46CB600][00000159A5AC1980 49] iPhone8Plus, [00000159A474C300][00000159A5AC5B00 49] iPhoneX, [00000159A46C8200][00000159A5574100 49] iPhoneXS, [00000159A474DE00][00000159A5B4A280 49] iPhoneXSMax, [00000159A46CB100][00000159A5336400 49] iPhoneXR, [00000159A474F900][00000159A2EF4580 49] iPhone11, [00000159A46C9900][00000159A2EF8700 49] iPhone11Pro, [00000159A474E200][00000159A5416840 49] iPhone11ProMax, [00000159A46CAD00][00000159A2F6A980 49] iPhoneSE2, [00000159A474FB00][00000159A2F6EAC0 49] iPhone12Mini, [00000159A46C9B00][00000159A2F76C40 49] iPhone12, [00000159A474E600][000001599E174DC0 49] iPhone12Pro, [00000159A46C8500][000001599E184F40 49] iPhone12ProMax, [00000159A474F500][000001599E19F0C0 49] iPadPro105, [00000159A46C9F00][000001599E1A3240 49] iPadPro129, [00000159A474D200][000001599E1A73C0 49] iPadPro97, [00000159A46C9000][000001599E1AB540 49] iPadPro2_129, [00000159A474ED00][000001599E1AF6C0 49] iPad5, [00000159A46CBC00][000001599E1B3840 49] iPad6, [00000159A474D100][000001599E1B79C0 49] iPad7, [00000159A46C8900][000001599E1BBB40 49] iPad8, [00000159A474EB00][000001599E1BE140 49] iPadPro11, [00000159A46CA200][000001599E1C22C0 49] iPadPro2_11, [00000159A474E900][000001599E1C6440 49] iPadPro3_129, [00000159A46CA600][000001599E1CA5C0 49] iPadPro4_129, [00000159A474EF00][000001599E1CE740 49] AppleTV, [00000159A46CA500][000001599E1EE8C0 49] AppleTV4K, [00000159A474D600][00000159A2F72A00 49] TVOS, [00000159A46CB400][00000159A59F2B40 49] Mac, [00000159A474E700][00000159A59F6C80 49] MacClient, [00000159A46CAE00][00000159A59FADC0 49] MacNoEditor, [00000159A474CE00][00000159A5A02F40 49] MacServer, [00000159A46CBF00][00000159A5A070C0 49] Linux, [00000159A474D700][00000159A5F5D240 49] LinuxAArch64, [00000159A46CB900][00000159A5A113C0 49] LinuxNoEditor, [00000159A474C800][00000159A53CF540 49] LinuxAArch64NoEditor, [00000159A46CBD00][00000159A53D36C0 49] LinuxClient, [00000159A474EC00][00000159A53D7840 49] LinuxAArch64Client, [00000159A46C9C00][00000159A53CB9C0 49] LinuxServer, [00000159A474DF00][00000159A5A15B40 49] LinuxAArch64Server, [00000159A46CA900][00000159A53DA140 49] Android, [00000159A474DB00][00000159A53DE2C0 49] Android_Low, [00000159A46CA400][00000159A53E2440 49] Android_Mid, [00000159A474F800][00000159A53FE5C0 49] Android_High, [00000159A46CAF00][00000159A5402740 49] Android_Default, [00000159A474CD00][00000159A54068C0 49] Android_Adreno4xx, [00000159A4740600][00000159A5ED2A40 49] Android_Adreno5xx_Low, [00000159A4BB2900][00000159A59FEB80 49] Android_Adreno5xx, [00000159A4740C00][00000159A5ED6CC0 49] Android_Adreno6xx, [00000159A4BB0600][00000159A5EDAE00 49] Android_Adreno6xx_Vulkan, [00000159A4741500][00000159A5EDEF40 49] Android_Mali_T6xx, [00000159A4BB1200][00000159A5EE70C0 49] Android_Mali_T7xx, [00000159A4742A00][00000159A5EEB240 49] Android_Mali_T8xx, [00000159A4BB2200][00000159A53273C0 49] Android_Mali_G71, [00000159A4741900][00000159A5323540 49] Android_Mali_G72, [00000159A4BB0B00][00000159A5B476C0 49] Android_Mali_G72_Vulkan, [00000159A4742400][00000159A5B43840 49] Android_Mali_G76, [00000159A4BB1F00][00000159A5B3F9C0 49] Android_Mali_G76_Vulkan, [00000159A4740900][00000159A5B3BB40 49] Android_Mali_G77, [00000159A4BB0900][00000159A2FD8140 49] Android_Mali_G77_Vulkan, [00000159A4740100][00000159A319C2C0 49] Android_Mali_G78, [00000159A4BB2500][000001599C85C440 49] Android_Mali_G78_Vulkan, [00000159A4742D00][00000159A5EEE5C0 49] Android_Mali_G710, [00000159A4BB1800][00000159A5EF2740 49] Android_Mali_G710_Vulkan, [00000159A4741F00][00000159A5EF68C0 49] Android_Vulkan_SM5, [00000159A4BB0200][00000159A5EFAA40 49] Android_PowerVR_G6xxx, [00000159A4741D00][00000159A5EFEBC0 49] Android_PowerVR_GT7xxx, [00000159A4BB0100][00000159A5F02D40 49] Android_PowerVR_GE8xxx, [00000159A474F100][00000159A5EE2E80 49] Android_PowerVR_GM9xxx, [00000159A4BB0300][00000159A5F06FC0 49] Android_PowerVR_GM9xxx_Vulkan, [00000159A474EA00][00000159A5F0B100 49] Android_TegraK1, [00000159A4BB1700][00000159A5F13280 49] Android_Unknown_Vulkan, [00000159A474E100][00000159A5F17400 49] Lumin, [00000159A4BB1300][00000159A5F1B580 49] Lumin_Desktop, [00000159A474CF00][00000159A5F1F700 49] HoloLens, 
+[2022.01.23-21.19.57:797][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.23-21.19.57:797][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.23-21.19.57:797][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.23-21.19.57:797][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.23-21.19.57:798][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.23-21.19.57:837][  0]LogNetVersion: FPS 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 624169647)
+[2022.01.23-21.19.58:550][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.23-21.19.58:631][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.23-21.19.58:640][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.01.23-21.19.58:640][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.01.23-21.19.58:640][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.23-21.19.59:209][  0]LogPython: Using Python 3.7.7
+[2022.01.23-21.19.59:893][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 6A7132334E391F6FC19A1DBFE2C7AAF2 | Instance: 70B3AE7F4CB734B73A4D119EC0E76B02 (LAPTOP-PN9UII8D-16372).
+[2022.01.23-21.20.00:210][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.23-21.20.00:220][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.23-21.20.00:536][  0]SourceControl: Source control is disabled
+[2022.01.23-21.20.00:536][  0]SourceControl: Source control is disabled
+[2022.01.23-21.20.00:547][  0]SourceControl: Source control is disabled
+[2022.01.23-21.20.00:561][  0]SourceControl: Source control is disabled
+[2022.01.23-21.20.00:575][  0]SourceControl: Source control is disabled
+[2022.01.23-21.20.00:586][  0]LogUProjectInfo: Found projects:
+[2022.01.23-21.20.00:970][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.23-21.20.01:083][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.23-21.20.01:126][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.23-21.20.01:127][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.23-21.20.01:339][  0]LogCollectionManager: Loaded 0 collections in 0.001155 seconds
+[2022.01.23-21.20.01:381][  0]LogFileCache: Scanning file cache for directory 'D:/FPS/Saved/Collections/' took 0.00s
+[2022.01.23-21.20.01:381][  0]LogFileCache: Scanning file cache for directory 'D:/FPS/Content/Developers/clark/Collections/' took 0.00s
+[2022.01.23-21.20.01:381][  0]LogFileCache: Scanning file cache for directory 'D:/FPS/Content/Collections/' took 0.00s
+[2022.01.23-21.20.01:381][  0]LogOcInput: OculusInput pre-init called
+[2022.01.23-21.20.01:715][  0]LogEngine: Initializing Engine...
+[2022.01.23-21.20.01:723][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.01.23-21.20.01:723][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.23-21.20.01:723][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.23-21.20.01:726][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.01.23-21.20.01:877][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.23-21.20.01:913][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.23-21.20.01:918][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.23-21.20.01:924][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.23-21.20.01:926][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.23-21.20.01:927][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.23-21.20.01:927][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.23-21.20.01:928][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-21.20.01:928][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-21.20.01:928][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-21.20.01:928][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-21.20.01:928][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-21.20.01:928][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-21.20.01:928][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-21.20.01:928][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-21.20.01:929][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-21.20.01:929][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-21.20.01:929][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-21.20.01:929][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-21.20.01:952][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-21.20.01:952][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-21.20.02:024][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.01.23-21.20.02:027][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-21.20.02:031][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-21.20.02:032][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-21.20.02:033][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-21.20.02:034][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-21.20.02:034][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.23-21.20.02:035][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-21.20.02:035][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-21.20.02:035][  0]LogInit: FAudioDevice initialized.
+[2022.01.23-21.20.02:036][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.23-21.20.02:036][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.23-21.20.02:107][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/clark/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.23-21.20.02:107][  0]LogInit: Texture streaming: Enabled
+[2022.01.23-21.20.02:132][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.01.23-21.20.02:137][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.23-21.20.02:137][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.23-21.20.02:140][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.23-21.20.02:443][  0]LogInit: Transaction tracking system initialized
+[2022.01.23-21.20.02:503][  0]BlueprintLog: New page: Editor Load
+[2022.01.23-21.20.02:653][  0]LocalizationService: Localization service is disabled
+[2022.01.23-21.20.02:725][  0]TimingProfiler: Initialize
+[2022.01.23-21.20.02:727][  0]TimingProfiler: OnSessionChanged
+[2022.01.23-21.20.02:728][  0]LoadingProfiler: Initialize
+[2022.01.23-21.20.02:728][  0]LoadingProfiler: OnSessionChanged
+[2022.01.23-21.20.02:728][  0]NetworkingProfiler: Initialize
+[2022.01.23-21.20.02:729][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.23-21.20.02:729][  0]MemoryProfiler: Initialize
+[2022.01.23-21.20.02:729][  0]MemoryProfiler: OnSessionChanged
+[2022.01.23-21.20.03:005][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.23-21.20.03:005][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.23-21.20.03:401][  0]LogFileCache: Scanning file cache for directory 'D:/FPS/Content/' took 0.01s
+[2022.01.23-21.20.03:619][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.23-21.20.03:626][  0]SourceControl: Source control is disabled
+[2022.01.23-21.20.03:626][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.760
+[2022.01.23-21.20.03:627][  0]Cmd: MAP LOAD FILE="../../../../FPS/Content/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.23-21.20.03:629][  0]LightingResults: New page: Lighting Build
+[2022.01.23-21.20.03:634][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-21.20.03:634][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.20.03:635][  0]MapCheck: New page: Map Check
+[2022.01.23-21.20.03:635][  0]LightingResults: New page: Lighting Build
+[2022.01.23-21.20.03:644][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.23-21.20.03:650][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.01.23-21.20.03:745][  0]LogBlueprint: Warning: [AssetLog] D:\FPS\Content\Assets\MyHuman\Animations\AnimStarterPack\Ue4ASP_Character.uasset: [Compiler] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2022.01.23-21.20.05:230][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.01.23-21.20.05:231][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.01.23-21.20.05:277][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.23-21.20.05:302][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.01.23-21.20.05:303][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.23-21.20.05:303][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,275ms to complete.
+[2022.01.23-21.20.05:304][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.677
+[2022.01.23-21.20.05:321][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.455
+[2022.01.23-21.20.05:486][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-21.20.05:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-21.20.05:504][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-21.20.05:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-21.20.05:549][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0141 seconds. Added 3822 classes and 928 folders.
+[2022.01.23-21.20.05:555][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.01.23-21.20.05:561][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.23-21.20.05:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.23-21.20.05:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.23-21.20.05:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000322
+[2022.01.23-21.20.05:564][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.23-21.20.05:564][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:564][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.23-21.20.05:564][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:564][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.23-21.20.05:564][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.01.23-21.20.05:566][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.23-21.20.05:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:567][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.23-21.20.05:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.23-21.20.05:567][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.01.23-21.20.05:568][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.23-21.20.05:568][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:568][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.23-21.20.05:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:568][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.23-21.20.05:568][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.01.23-21.20.05:570][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.23-21.20.05:570][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:570][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.23-21.20.05:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.23-21.20.05:570][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.01.23-21.20.05:571][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.23-21.20.05:571][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:571][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.23-21.20.05:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.23-21.20.05:571][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.01.23-21.20.05:573][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.23-21.20.05:573][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:573][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.23-21.20.05:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:573][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.23-21.20.05:573][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.01.23-21.20.05:575][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.23-21.20.05:575][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:575][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.23-21.20.05:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.23-21.20.05:575][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.01.23-21.20.05:577][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.23-21.20.05:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.23-21.20.05:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.23-21.20.05:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.01.23-21.20.05:579][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.23-21.20.05:579][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:579][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.23-21.20.05:579][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:579][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.23-21.20.05:579][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.01.23-21.20.05:580][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.23-21.20.05:581][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:581][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.23-21.20.05:581][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:581][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.23-21.20.05:581][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.01.23-21.20.05:582][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.23-21.20.05:582][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:582][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.23-21.20.05:582][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:583][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.23-21.20.05:583][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.01.23-21.20.05:585][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.23-21.20.05:585][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:585][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.23-21.20.05:585][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:585][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.23-21.20.05:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.01.23-21.20.05:586][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.23-21.20.05:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.23-21.20.05:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.23-21.20.05:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.01.23-21.20.05:587][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.23-21.20.05:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.23-21.20.05:588][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:588][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.23-21.20.05:588][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.01.23-21.20.05:589][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.23-21.20.05:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.23-21.20.05:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.23-21.20.05:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.01.23-21.20.05:590][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.23-21.20.05:591][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:591][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.23-21.20.05:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.23-21.20.05:591][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.01.23-21.20.05:592][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.23-21.20.05:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.23-21.20.05:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.23-21.20.05:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.01.23-21.20.05:593][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.23-21.20.05:593][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:593][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.23-21.20.05:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.23-21.20.05:593][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.01.23-21.20.05:594][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.23-21.20.05:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.23-21.20.05:594][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:594][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.23-21.20.05:594][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.01.23-21.20.05:595][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.23-21.20.05:595][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:595][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.23-21.20.05:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.23-21.20.05:595][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.01.23-21.20.05:596][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.23-21.20.05:596][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:596][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.23-21.20.05:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.23-21.20.05:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.01.23-21.20.05:598][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.23-21.20.05:598][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:598][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.23-21.20.05:598][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:598][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.23-21.20.05:598][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.01.23-21.20.05:600][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.23-21.20.05:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.23-21.20.05:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.23-21.20.05:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.01.23-21.20.05:602][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.23-21.20.05:602][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:602][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.23-21.20.05:602][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:602][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.23-21.20.05:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.01.23-21.20.05:603][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.23-21.20.05:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.23-21.20.05:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.23-21.20.05:603][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.23-21.20.05:603][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.23-21.20.05:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.01.23-21.20.05:724][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.01.23-21.20.05:728][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.01.23-21.20.05:933][  0]LogSlate: Took 0.001162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.23-21.20.05:935][  0]LogSlate: Took 0.000628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.23-21.20.05:938][  0]LogSlate: Took 0.000823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.23-21.20.06:060][  0]LogRenderer: Reallocating scene render targets to support 1172x520 Format 10 NumSamples 1 (Frame:1).
+[2022.01.23-21.20.06:288][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.01.23-21.20.06:288][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.01.23-21.20.06:288][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.01.23-21.20.06:288][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.01.23-21.20.06:288][  0]LogLoad: (Engine Initialization) Total time: 14.42 seconds
+[2022.01.23-21.20.06:288][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.23-21.20.06:369][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.23-21.20.06:419][  1]LogAssetRegistry: Asset discovery search completed in 9.3051 seconds
+[2022.01.23-21.20.06:432][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.01.23-21.20.06:567][  3]LogSlate: Took 0.000679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.23-21.22.10:986][529]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.23-21.22.11:007][529]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Nostock_X.SK_SMG11_Nostock_X
+[2022.01.23-21.22.11:022][529]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.01.23-21.22.11:033][529]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.01.23-21.22.11:125][529]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.23-21.22.11:234][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.23-21.22.11:239][529]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2022.01.23-21.22.11:708][529]LogSlate: Took 0.000976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.23-21.22.11:749][530]LogRenderer: Reallocating scene render targets to support 1172x740 Format 10 NumSamples 1 (Frame:1).
+[2022.01.23-21.22.18:559][655]LogSlate: Window 'SK_SMG11_Nostock_X' being destroyed
+[2022.01.23-21.22.18:587][655]LogSlate: Window 'SK_SMG11_Nostock_X' being destroyed
+[2022.01.23-21.22.18:587][655]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-21.22.18:587][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.22.19:678][686]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Nostock_Y.SK_SMG11_Nostock_Y
+[2022.01.23-21.22.19:686][686]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.23-21.22.33:698][ 53]LogSlate: Window 'SK_SMG11_Nostock_Y' being destroyed
+[2022.01.23-21.22.33:723][ 53]LogSlate: Window 'SK_SMG11_Nostock_Y' being destroyed
+[2022.01.23-21.22.33:724][ 53]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-21.22.33:724][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.22.54:728][976]LogSkeletalMesh: Building Skeletal Mesh SM_1911_Pistol_01...
+[2022.01.23-21.22.54:737][976]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Assets/FPS_Weapon_Bundle/13k_Bundle/Character/Mesh/SM_1911_Pistol_01.SM_1911_Pistol_01
+[2022.01.23-21.22.54:765][976]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/FPS_Weapon_Bundle/13k_Bundle/Character/Mesh/SM_1911_Pistol_01.SM_1911_Pistol_01
+[2022.01.23-21.22.59:159][976]LogSlate: Window 'Message' being destroyed
+[2022.01.23-21.22.59:162][976]Message dialog closed, result: No, title: Message, text: This mesh currently has no valid Skeleton. Would you like to create a new Skeleton?
+[2022.01.23-21.22.59:230][976]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2022.01.23-21.23.04:289][976]LogSlate: Window 'Choose Skeleton' being destroyed
+[2022.01.23-21.23.04:325][976]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.23-21.23.12:349][172]LogSlate: Window 'SM_1911_Pistol_01' being destroyed
+[2022.01.23-21.23.12:374][172]LogSlate: Window 'SM_1911_Pistol_01' being destroyed
+[2022.01.23-21.23.12:374][172]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-21.23.12:374][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.23.15:601][302]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/FPS_Weapon_Bundle/13k_Bundle/Character/Mesh/SM_M4_Rifle_01.SM_M4_Rifle_01
+[2022.01.23-21.23.15:607][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.23-21.23.15:929][303]LogRenderer: Reallocating scene render targets to support 1172x876 Format 10 NumSamples 1 (Frame:1).
+[2022.01.23-21.23.24:505][695]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-21.23.24:505][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.23.43:120][202]LogEditorViewport: Clicking on Actor (LMB): BP_Weapon_Rifle_Actor_Child_C (BP_Weapon_Rifle_Actor_Child)
+[2022.01.23-21.24.40:265][341]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.BP_Weapon_Rifle_Actor_Child
+[2022.01.23-21.24.40:539][341]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
+[2022.01.23-21.24.41:778][341]LogSlate: Took 0.000951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.23-21.25.14:277][225]BlueprintLog: New page: Compile BP_Weapon_Rifle_Actor_Child
+[2022.01.23-21.25.14:362][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.01.23-21.25.14:397][225]LogSlate: Took 0.001181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.23-21.25.15:620][279]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-21.25.15:644][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-21.25.15:647][279]PIE: New page: PIE session: ThirdPersonExampleMap (24 янв. 2022 г., 11:25:15)
+[2022.01.23-21.25.15:649][279]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.23-21.25.15:651][279]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.23-21.25.15:651][279]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.23-21.25.15:669][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018541s)
+[2022.01.23-21.25.15:671][279]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.01.23-21.25.15:671][279]LogPlayLevel: PIE: World Init took: (0.001752s)
+[2022.01.23-21.25.15:671][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020536s)
+[2022.01.23-21.25.15:705][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.01.23-21.25.15:706][279]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.23-21.25.15:706][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-21.25.15:706][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-21.25.15:706][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-21.25.15:706][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-21.25.15:706][279]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-21.25.15:706][279]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-21.25.15:706][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-21.25.15:706][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-21.25.15:707][279]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-21.25.15:707][279]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-21.25.15:707][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-21.25.15:707][279]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-21.25.15:710][279]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-21.25.15:710][279]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-21.25.15:724][279]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.01.23-21.25.15:725][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-21.25.15:725][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-21.25.15:725][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-21.25.15:726][279]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-21.25.15:726][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-21.25.15:726][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.23-21.25.15:728][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-21.25.15:728][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-21.25.15:728][279]LogInit: FAudioDevice initialized.
+[2022.01.23-21.25.15:728][279]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.01.23-21.25.15:739][279]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.01.23-21.25.15:739][279]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.01.23-21.25.15:739][279]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2022.01.23-21.25.15:739][279]LogLoad: Game class is 'GameModeBase'
+[2022.01.23-21.25.15:745][279]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.01.24-04.25.15
+[2022.01.23-21.25.15:751][279]LogWorld: Bringing up level for play took: 0.011189
+[2022.01.23-21.25.15:751][279]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.01.23-21.25.15:757][279]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2022.01.23-21.25.15:758][279]LogBlueprintUserMessages: [BP_Storage_Component] Hello
+[2022.01.23-21.25.15:758][279]LogBlueprintUserMessages: [BP_Storage_Component] Hello
+[2022.01.23-21.25.15:758][279]LogBlueprintUserMessages: [BP_Storage_Component] Hello
+[2022.01.23-21.25.15:763][279]PIE: Server logged in
+[2022.01.23-21.25.15:765][279]PIE: Play in editor total start time 0,126 seconds.
+[2022.01.23-21.25.51:026][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-21.25.51:026][ 89]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.23-21.25.51:027][ 89]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-21.25.51:027][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.25.51:053][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-21.25.51:069][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.25.51:107][ 89]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.23-21.25.51:115][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-21.25.51:117][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-21.25.51:119][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-21.25.51:154][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2022.01.23-21.25.51:219][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.01.23-21.27.05:015][775]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.23-21.27.05:038][775]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.23-21.27.11:153][107]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.23-21.27.11:154][107]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.23-21.27.14:115][269]LogContentBrowser: Attempting asset rename: NewFolder -> Handgun
+[2022.01.23-21.27.14:116][269]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.23-21.27.17:281][415]LogContentBrowser: Deferred new asset file creation: BP_Weapon_Fire_Actor_Child
+[2022.01.23-21.27.17:312][415]LogContentBrowser: Creating deferred item: BP_Weapon_Fire_Actor_Child
+[2022.01.23-21.27.33:480][308]LogContentBrowser: Attempting asset rename: BP_Weapon_Fire_Actor_Child -> BP_Weapon_Handgun_Actor
+[2022.01.23-21.27.33:495][308]LogContentBrowser: End creating deferred item BP_Weapon_Fire_Actor_Child
+[2022.01.23-21.27.36:818][463]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.BP_Weapon_Handgun_Actor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/BP_Weapon_Handgun_Actor.PackageMetaData'
+[2022.01.23-21.27.36:818][463]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.SKEL_BP_Weapon_Handgun_Actor_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/BP_Weapon_Handgun_Actor.PackageMetaData'
+[2022.01.23-21.27.36:818][463]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.SKEL_BP_Weapon_Handgun_Actor_C' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/BP_Weapon_Handgun_Actor.PackageMetaData'
+[2022.01.23-21.27.36:818][463]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.BP_Weapon_Handgun_Actor_C' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/BP_Weapon_Handgun_Actor.PackageMetaData'
+[2022.01.23-21.27.36:818][463]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.BP_Weapon_Handgun_Actor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/BP_Weapon_Handgun_Actor.PackageMetaData'
+[2022.01.23-21.27.36:818][463]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.BP_Weapon_Handgun_Actor:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/BP_Weapon_Handgun_Actor.PackageMetaData'
+[2022.01.23-21.27.36:818][463]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.BP_Weapon_Handgun_Actor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/BP_Weapon_Handgun_Actor.PackageMetaData'
+[2022.01.23-21.27.36:818][463]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.BP_Weapon_Handgun_Actor:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/BP_Weapon_Handgun_Actor.PackageMetaData'
+[2022.01.23-21.27.36:818][463]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.BP_Weapon_Handgun_Actor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/BP_Weapon_Handgun_Actor.PackageMetaData'
+[2022.01.23-21.27.36:818][463]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.BP_Weapon_Handgun_Actor:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/BP_Weapon_Handgun_Actor.PackageMetaData'
+[2022.01.23-21.27.36:855][463]LogSavePackage: Moving '../../../../FPS/Saved/BP_Weapon_Handgun_Actor1CF12F944A89BE0BEA6230865E97B517.tmp' to '../../../../FPS/Content/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.uasset'
+[2022.01.23-21.27.36:972][463]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.01.23-21.27.37:023][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.01.23-21.27.37:058][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.01.23-21.27.37:126][463]AssetCheck: New page: Asset Save: BP_Weapon_Handgun_Actor
+[2022.01.23-21.27.37:126][463]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_Actor.BP_Weapon_Handgun_Actor
+[2022.01.23-21.27.57:613][844]LogContentBrowser: Deferred new asset file creation: BP_Weapon_Handgun_Actor_Child
+[2022.01.23-21.27.57:653][844]LogContentBrowser: Creating deferred item: BP_Weapon_Handgun_Actor_Child
+[2022.01.23-21.28.30:113][567]LogContentBrowser: Attempting asset rename: BP_Weapon_Handgun_Actor_Child -> BP_Weapon_Handgun_SMG_10_Actor
+[2022.01.23-21.28.30:116][567]LogContentBrowser: End creating deferred item BP_Weapon_Handgun_Actor_Child
+[2022.01.23-21.28.59:740][946]LogContentBrowser: Attempting asset rename: BP_Weapon_Rifle_Actor_Child -> BP_Rifle_AK47
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.BP_Rifle_AK47:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.BP_Rifle_AK47_C' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.BP_Rifle_AK47:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.BP_Rifle_AK47:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.BP_Rifle_AK47:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.BP_Rifle_AK47:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.BP_Rifle_AK47:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.BP_Rifle_AK47:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.SKEL_BP_Rifle_AK47_C' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.SKEL_BP_Rifle_AK47_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.SKEL_BP_Rifle_AK47_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.SKEL_BP_Rifle_AK47_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:781][946]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.SKEL_BP_Rifle_AK47_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.PackageMetaData'
+[2022.01.23-21.28.59:845][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47" FILE="../../../../FPS/Content/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.uasset" SILENT=true
+[2022.01.23-21.28.59:859][946]LogSavePackage: Moving '../../../../FPS/Saved/BP_Rifle_AK47A7F6D90F495B7A38200968908D6D3E8B.tmp' to '../../../../FPS/Content/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.uasset'
+[2022.01.23-21.28.59:862][946]LogSavePackage: Moving '../../../../FPS/Saved/BP_Weapon_Rifle_Actor_Child9BFF2A60432D017DC29360ACDAC94BAA.tmp' to '../../../../FPS/Content/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.uasset'
+[2022.01.23-21.28.59:933][946]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.23-21.28.59:933][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.BP_Rifle_AK47
+[2022.01.23-21.28.59:933][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.BP_Weapon_Rifle_Actor_Child
+[2022.01.23-21.28.59:933][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.Default__BP_Weapon_Rifle_Actor_Child_C
+[2022.01.23-21.28.59:933][946]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Weapon_Rifle_Actor_Child.BP_Weapon_Rifle_Actor_Child_C
+[2022.01.23-21.29.14:851][676]LogContentBrowser: Attempting asset rename: BP_Weapon_Handgun_SMG_10_Actor -> BP_Handgun_SMG_10
+[2022.01.23-21.29.14:891][676]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.BP_Handgun_SMG_10:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_SMG_10_Actor.PackageMetaData'
+[2022.01.23-21.29.14:891][676]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.SKEL_BP_Handgun_SMG_10_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_SMG_10_Actor.PackageMetaData'
+[2022.01.23-21.29.14:891][676]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.SKEL_BP_Handgun_SMG_10_C' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_SMG_10_Actor.PackageMetaData'
+[2022.01.23-21.29.14:891][676]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.BP_Handgun_SMG_10_C' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_SMG_10_Actor.PackageMetaData'
+[2022.01.23-21.29.14:891][676]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.BP_Handgun_SMG_10:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_SMG_10_Actor.PackageMetaData'
+[2022.01.23-21.29.14:891][676]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.BP_Handgun_SMG_10:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_SMG_10_Actor.PackageMetaData'
+[2022.01.23-21.29.14:891][676]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.BP_Handgun_SMG_10:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_SMG_10_Actor.PackageMetaData'
+[2022.01.23-21.29.14:891][676]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.BP_Handgun_SMG_10:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_SMG_10_Actor.PackageMetaData'
+[2022.01.23-21.29.14:891][676]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.BP_Handgun_SMG_10:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_SMG_10_Actor.PackageMetaData'
+[2022.01.23-21.29.14:891][676]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.BP_Handgun_SMG_10:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Weapon_Handgun_SMG_10_Actor.PackageMetaData'
+[2022.01.23-21.29.14:915][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10" FILE="../../../../FPS/Content/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.uasset" SILENT=true
+[2022.01.23-21.29.14:922][676]LogSavePackage: Moving '../../../../FPS/Saved/BP_Handgun_SMG_10CFA79D1F4D62700642DCD096802FE2CE.tmp' to '../../../../FPS/Content/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.uasset'
+[2022.01.23-21.29.15:018][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.01.23-21.29.15:071][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.01.23-21.29.15:103][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.01.23-21.29.15:164][676]AssetCheck: New page: Asset Save: BP_Handgun_SMG_10
+[2022.01.23-21.29.15:164][676]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.BP_Handgun_SMG_10
+[2022.01.23-21.29.25:198][ 42]LogContentBrowser: Attempting asset rename: BP_Handgun_SMG_10 -> BP_Handgun_SMG10
+[2022.01.23-21.29.25:242][ 42]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.BP_Handgun_SMG10_C' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.PackageMetaData'
+[2022.01.23-21.29.25:243][ 42]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.SKEL_BP_Handgun_SMG10_C' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.PackageMetaData'
+[2022.01.23-21.29.25:243][ 42]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.SKEL_BP_Handgun_SMG10_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.PackageMetaData'
+[2022.01.23-21.29.25:243][ 42]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.BP_Handgun_SMG10:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.PackageMetaData'
+[2022.01.23-21.29.25:243][ 42]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.BP_Handgun_SMG10:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.PackageMetaData'
+[2022.01.23-21.29.25:243][ 42]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.BP_Handgun_SMG10:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.PackageMetaData'
+[2022.01.23-21.29.25:243][ 42]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.BP_Handgun_SMG10:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.PackageMetaData'
+[2022.01.23-21.29.25:243][ 42]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.BP_Handgun_SMG10:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.PackageMetaData'
+[2022.01.23-21.29.25:243][ 42]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.BP_Handgun_SMG10:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.PackageMetaData'
+[2022.01.23-21.29.25:243][ 42]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.BP_Handgun_SMG10:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG_10.PackageMetaData'
+[2022.01.23-21.29.25:266][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10" FILE="../../../../FPS/Content/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.uasset" SILENT=true
+[2022.01.23-21.29.25:274][ 42]LogSavePackage: Moving '../../../../FPS/Saved/BP_Handgun_SMG1003FBFD854F879E48A9680EAB371C9BC0.tmp' to '../../../../FPS/Content/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.uasset'
+[2022.01.23-21.29.25:368][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.01.23-21.29.25:412][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.01.23-21.29.25:450][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.01.23-21.29.25:507][ 42]AssetCheck: New page: Asset Save: BP_Handgun_SMG10
+[2022.01.23-21.29.25:507][ 42]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.BP_Handgun_SMG10
+[2022.01.23-21.30.07:081][348]LogContentBrowser: Attempting asset rename: BP_Handgun_SMG10 -> BP_Handgun_SMG11
+[2022.01.23-21.30.07:123][348]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.BP_Handgun_SMG11_C' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.PackageMetaData'
+[2022.01.23-21.30.07:123][348]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.SKEL_BP_Handgun_SMG11_C' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.PackageMetaData'
+[2022.01.23-21.30.07:123][348]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.SKEL_BP_Handgun_SMG11_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.PackageMetaData'
+[2022.01.23-21.30.07:123][348]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.BP_Handgun_SMG11:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.PackageMetaData'
+[2022.01.23-21.30.07:123][348]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.BP_Handgun_SMG11:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.PackageMetaData'
+[2022.01.23-21.30.07:123][348]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.BP_Handgun_SMG11:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.PackageMetaData'
+[2022.01.23-21.30.07:123][348]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.BP_Handgun_SMG11:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.PackageMetaData'
+[2022.01.23-21.30.07:123][348]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.BP_Handgun_SMG11:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.PackageMetaData'
+[2022.01.23-21.30.07:123][348]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.BP_Handgun_SMG11:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.PackageMetaData'
+[2022.01.23-21.30.07:123][348]LogMetaData: Removing '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.BP_Handgun_SMG11:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG10.PackageMetaData'
+[2022.01.23-21.30.07:147][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11" FILE="../../../../FPS/Content/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.uasset" SILENT=true
+[2022.01.23-21.30.07:154][348]LogSavePackage: Moving '../../../../FPS/Saved/BP_Handgun_SMG116940BFF0437A1599D8E7D8B3422F758F.tmp' to '../../../../FPS/Content/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.uasset'
+[2022.01.23-21.30.07:240][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.01.23-21.30.07:285][348]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.01.23-21.30.07:318][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.01.23-21.30.07:375][348]AssetCheck: New page: Asset Save: BP_Handgun_SMG11
+[2022.01.23-21.30.07:375][348]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.BP_Handgun_SMG11
+[2022.01.23-21.30.10:191][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.BP_Handgun_SMG11
+[2022.01.23-21.30.12:428][536]LogSlate: Window 'BP_Handgun_SMG11' being destroyed
+[2022.01.23-21.30.13:669][601]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-21.30.13:670][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.30.15:406][678]BlueprintLog: New page: Compile BP_Handgun_SMG11
+[2022.01.23-21.30.15:504][678]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2022.01.23-21.30.21:330][943]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.BP_Rifle_AK47
+[2022.01.23-21.30.23:515][ 47]BlueprintLog: New page: Compile BP_Rifle_AK47
+[2022.01.23-21.30.23:634][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.01.23-21.30.24:392][ 89]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-21.30.24:393][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.31.18:365][729]LogStaticMesh: Building static mesh SM_SMG11_Nostock_X...
+[2022.01.23-21.31.18:434][729]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SM_SMG11_Nostock_X.SM_SMG11_Nostock_X
+[2022.01.23-21.31.18:483][729]LogActorFactory: Actor Factory created SM_SMG11_Nostock_X
+[2022.01.23-21.31.34:697][624]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:697][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:698][624]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:698][624]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:712][625]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:712][625]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:712][625]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:712][625]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:712][625]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:712][625]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:728][626]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:728][626]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:729][626]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:729][626]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:729][626]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:729][626]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:746][627]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:746][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:746][627]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:746][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:746][627]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:746][627]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:762][628]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:762][628]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:762][628]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:762][628]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:762][628]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:762][628]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:779][629]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:779][629]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:780][629]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:780][629]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:780][629]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:780][629]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:796][630]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:796][630]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:797][630]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:797][630]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:797][630]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:797][630]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:812][631]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:812][631]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:813][631]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:813][631]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:813][631]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:813][631]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:829][632]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:829][632]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:830][632]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:830][632]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:830][632]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:830][632]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:846][633]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:846][633]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:846][633]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:846][633]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:846][633]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:846][633]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:862][634]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:862][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:863][634]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:863][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:863][634]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:863][634]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:879][635]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:879][635]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:880][635]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:880][635]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:880][635]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:880][635]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:896][636]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:896][636]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:896][636]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:896][636]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:897][636]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:897][636]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:912][637]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:912][637]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:912][637]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:912][637]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:912][637]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:912][637]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:929][638]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:929][638]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:929][638]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:929][638]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:930][638]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:930][638]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:945][639]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:945][639]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:945][639]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:945][639]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:946][639]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:946][639]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:961][640]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:961][640]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:962][640]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:962][640]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:962][640]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:962][640]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:978][641]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:978][641]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:978][641]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:978][641]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:978][641]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:978][641]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:995][642]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:995][642]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:996][642]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:996][642]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.34:996][642]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.34:996][642]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:011][643]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:011][643]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:011][643]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:012][643]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:012][643]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:012][643]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:028][644]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:028][644]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:028][644]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:028][644]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:028][644]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:028][644]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:046][645]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:046][645]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:046][645]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:046][645]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:046][645]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:046][645]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:062][646]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:062][646]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:062][646]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:063][646]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:063][646]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:063][646]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:079][647]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:079][647]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:080][647]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:080][647]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:080][647]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:080][647]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:095][648]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:095][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:096][648]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:096][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:096][648]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:096][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:111][649]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:111][649]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:112][649]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:112][649]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:112][649]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:112][649]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:129][650]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:129][650]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:129][650]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:129][650]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:130][650]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:130][650]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:145][651]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:145][651]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:145][651]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:145][651]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:145][651]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:145][651]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:162][652]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:162][652]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.35:162][652]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.35:162][652]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:546][795]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:546][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:547][795]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:547][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:562][796]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:562][796]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:563][796]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:563][796]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:563][796]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:563][796]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:579][797]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:579][797]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:580][797]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:580][797]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:580][797]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:580][797]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:596][798]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:596][798]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:597][798]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:597][798]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:597][798]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:597][798]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:613][799]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:613][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:614][799]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:614][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:614][799]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:614][799]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:630][800]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:630][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:631][800]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:631][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:631][800]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:631][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:646][801]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:646][801]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:646][801]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:647][801]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:647][801]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:647][801]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:662][802]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:662][802]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.37:662][802]LogPhysics: Warning: Scale for /Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.23-21.31.37:662][802]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_12:PersistentLevel.BP_Handgun_SMG11_C_0.bullet_apawn_location' 
+[2022.01.23-21.31.49:826][514]BlueprintLog: New page: Compile BP_Handgun_SMG11
+[2022.01.23-21.31.49:914][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.01.23-21.32.25:219][162]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_Actor_M4.BP_Rifle_Actor_M4
+[2022.01.23-21.32.28:975][348]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-21.32.28:975][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.33.11:449][456]BlueprintLog: New page: Compile BP_Handgun_SMG11
+[2022.01.23-21.33.11:518][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.01.23-21.33.36:391][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.01.23-21.33.36:403][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ThirdPersonExampleMap" FILE="../../../../FPS/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.01.23-21.33.36:431][636]LogSavePackage: Moving '../../../../FPS/Saved/ThirdPersonExampleMap_Auto103EE491440BAA53B5DD75192321B7119.tmp' to '../../../../FPS/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.01.23-21.33.36:433][636]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonExampleMap' took 0.073
+[2022.01.23-21.33.36:433][636]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2022.01.23-21.33.36:435][636]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/FPS_Weapon_Bundle/13k_Bundle/Character/Mesh/SM_1911_Pistol_01] ([1] browsable assets)...
+[2022.01.23-21.33.36:474][636]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Assets/FPS_Weapon_Bundle/13k_Bundle/Character/Mesh/SM_1911_Pistol_01.SM_1911_Pistol_01]
+[2022.01.23-21.33.36:474][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/FPS_Weapon_Bundle/13k_Bundle/Character/Mesh/SM_1911_Pistol_01]
+[2022.01.23-21.33.36:486][636]LogSavePackage: Moving '../../../../FPS/Saved/SM_1911_Pistol_01_Auto1AFB7D03F404C7FFF10F07791224F3FFF.tmp' to '../../../../FPS/Saved/Autosaves/Game/Assets/FPS_Weapon_Bundle/13k_Bundle/Character/Mesh/SM_1911_Pistol_01_Auto1.uasset'
+[2022.01.23-21.33.36:488][636]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11] ([2] browsable assets)...
+[2022.01.23-21.33.36:540][636]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11.BP_Handgun_SMG11]
+[2022.01.23-21.33.36:540][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11]
+[2022.01.23-21.33.36:552][636]LogSavePackage: Moving '../../../../FPS/Saved/BP_Handgun_SMG11_Auto168420C8A4177D3DC089270B8862F29B5.tmp' to '../../../../FPS/Saved/Autosaves/Game/Blueprints/Storage/Weapon/Fire/Handgun/BP_Handgun_SMG11_Auto1.uasset'
+[2022.01.23-21.33.36:553][636]LogFileHelpers: Auto-saving content packages took 0.120
+[2022.01.23-21.33.39:456][775]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.23-21.34.54:464][775]BlueprintLog: New page: Compile BP_Handgun_SMG11
+[2022.01.23-21.34.54:560][775]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2022.01.23-21.34.56:230][829]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_Actor_M4.BP_Rifle_Actor_M4
+[2022.01.23-21.35.24:078][263]BlueprintLog: New page: Compile BP_Rifle_Actor_M4
+[2022.01.23-21.35.24:149][263]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.01.23-21.35.27:117][410]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-21.35.27:131][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-21.35.27:132][410]PIE: New page: PIE session: ThirdPersonExampleMap (24 янв. 2022 г., 11:35:27)
+[2022.01.23-21.35.27:132][410]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.23-21.35.27:147][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015156s)
+[2022.01.23-21.35.27:149][410]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.01.23-21.35.27:149][410]LogPlayLevel: PIE: World Init took: (0.001899s)
+[2022.01.23-21.35.27:149][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017295s)
+[2022.01.23-21.35.27:187][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.01.23-21.35.27:188][410]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.23-21.35.27:188][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-21.35.27:188][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-21.35.27:188][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-21.35.27:188][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-21.35.27:188][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-21.35.27:188][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-21.35.27:188][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-21.35.27:188][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-21.35.27:189][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-21.35.27:189][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-21.35.27:189][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-21.35.27:189][410]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-21.35.27:192][410]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-21.35.27:192][410]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-21.35.27:206][410]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.01.23-21.35.27:206][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-21.35.27:206][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-21.35.27:206][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-21.35.27:207][410]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-21.35.27:207][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-21.35.27:207][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.23-21.35.27:209][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-21.35.27:209][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-21.35.27:209][410]LogInit: FAudioDevice initialized.
+[2022.01.23-21.35.27:209][410]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.01.23-21.35.27:220][410]LogLoad: Game class is 'GameModeBase'
+[2022.01.23-21.35.27:225][410]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.01.24-04.35.27
+[2022.01.23-21.35.27:227][410]LogWorld: Bringing up level for play took: 0.006615
+[2022.01.23-21.35.27:228][410]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.01.23-21.35.27:231][410]LogBlueprintUserMessages: [BP_Storage_Component] Hello
+[2022.01.23-21.35.27:231][410]LogBlueprintUserMessages: [BP_Storage_Component] Hello
+[2022.01.23-21.35.27:231][410]LogBlueprintUserMessages: [BP_Storage_Component] Hello
+[2022.01.23-21.35.27:232][410]PIE: Server logged in
+[2022.01.23-21.35.27:233][410]PIE: Play in editor total start time 0,105 seconds.
+[2022.01.23-21.35.38:168][991]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=15.74 Y=37.66 Z=0.00 Location: X=147.20 Y=-242.19 Z=414.79 Normal: X=0.01 Y=-1.00 Z=-0.00 PenetrationDepth:0.000 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2022.01.23-21.35.39:186][ 45]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=178.72 Y=352.13 Z=0.00 Location: X=148.38 Y=-251.70 Z=414.98 Normal: X=-0.04 Y=-1.00 Z=-0.00 PenetrationDepth:0.000 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (10 other events since notify)
+[2022.01.23-21.35.40:898][141]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=79.57 Y=33.64 Z=0.00 Location: X=145.54 Y=-271.39 Z=415.06 Normal: X=0.01 Y=-1.00 Z=-0.00 PenetrationDepth:1.807 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (15 other events since notify)
+[2022.01.23-21.35.42:165][213]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=292.28 Y=465.91 Z=0.00 Location: X=107.92 Y=-279.24 Z=415.12 Normal: X=0.00 Y=-1.00 Z=-0.00 PenetrationDepth:0.667 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (10 other events since notify)
+[2022.01.23-21.35.43:198][270]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=318.70 Y=448.25 Z=0.00 Location: X=79.50 Y=-293.19 Z=415.15 Normal: X=-0.13 Y=-0.99 Z=-0.00 PenetrationDepth:0.000 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (12 other events since notify)
+[2022.01.23-21.35.44:357][332]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=89.83 Y=43.35 Z=0.00 Location: X=104.53 Y=-290.93 Z=415.11 Normal: X=-0.04 Y=-1.00 Z=0.00 PenetrationDepth:1.697 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (2 other events since notify)
+[2022.01.23-21.35.46:312][439]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=32.44 Y=27.96 Z=0.00 Location: X=132.83 Y=-269.29 Z=415.09 Normal: X=0.06 Y=-1.00 Z=-0.00 PenetrationDepth:0.773 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (4 other events since notify)
+[2022.01.23-21.35.47:421][500]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=70.15 Y=59.09 Z=0.00 Location: X=139.90 Y=-276.20 Z=414.81 Normal: X=-0.01 Y=-1.00 Z=-0.00 PenetrationDepth:1.567 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (9 other events since notify)
+[2022.01.23-21.35.48:423][555]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=170.15 Y=292.63 Z=0.00 Location: X=114.88 Y=-285.57 Z=414.44 Normal: X=0.01 Y=-1.00 Z=-0.00 PenetrationDepth:0.000 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (13 other events since notify)
+[2022.01.23-21.35.49:528][616]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=49.50 Y=39.28 Z=0.00 Location: X=120.83 Y=-296.99 Z=415.12 Normal: X=-0.01 Y=-1.00 Z=-0.00 PenetrationDepth:0.835 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (8 other events since notify)
+[2022.01.23-21.35.50:545][672]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=213.08 Y=386.52 Z=0.00 Location: X=116.16 Y=-297.33 Z=414.51 Normal: X=0.02 Y=-1.00 Z=-0.00 PenetrationDepth:0.000 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (11 other events since notify)
+[2022.01.23-21.35.52:229][765]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=322.27 Y=427.36 Z=0.00 Location: X=65.13 Y=-301.64 Z=415.15 Normal: X=-0.15 Y=-0.99 Z=-0.00 PenetrationDepth:0.000 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (15 other events since notify)
+[2022.01.23-21.35.53:240][818]LogCharacterMovement: BP_NPC_Character_2 is stuck and failed to move! Velocity: X=136.87 Y=213.02 Z=0.00 Location: X=73.82 Y=-296.37 Z=415.15 Normal: X=-0.07 Y=-1.00 Z=-0.00 PenetrationDepth:0.000 Actor:BP_NPC_Character2_2 Component:CharacterMesh0 BoneName:hand_l (1 other events since notify)
+[2022.01.23-21.35.53:967][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-21.35.53:967][857]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.23-21.35.53:968][857]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-21.35.53:968][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.35.53:989][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-21.35.54:000][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.35.54:032][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-21.35.54:033][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-21.35.54:034][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-21.35.54:042][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.01.23-21.35.54:097][858]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.01.23-21.35.55:275][907]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.23-21.35.55:287][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.23-21.35.55:287][907]PIE: New page: PIE session: ThirdPersonExampleMap (24 янв. 2022 г., 11:35:55)
+[2022.01.23-21.35.55:287][907]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.23-21.35.55:304][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016601s)
+[2022.01.23-21.35.55:310][907]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.01.23-21.35.55:310][907]LogPlayLevel: PIE: World Init took: (0.006117s)
+[2022.01.23-21.35.55:310][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022938s)
+[2022.01.23-21.35.55:347][907]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.01.23-21.35.55:348][907]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.23-21.35.55:348][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.23-21.35.55:348][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.23-21.35.55:348][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.23-21.35.55:348][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.23-21.35.55:348][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.23-21.35.55:348][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.23-21.35.55:348][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.23-21.35.55:348][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.23-21.35.55:349][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.23-21.35.55:349][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.23-21.35.55:349][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.23-21.35.55:349][907]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.23-21.35.55:351][907]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.23-21.35.55:351][907]LogAudioMixer: Display: 1: FrontRight
+[2022.01.23-21.35.55:364][907]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.01.23-21.35.55:364][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.23-21.35.55:364][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.23-21.35.55:364][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.23-21.35.55:365][907]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.23-21.35.55:365][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.23-21.35.55:365][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.23-21.35.55:367][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.23-21.35.55:367][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.23-21.35.55:367][907]LogInit: FAudioDevice initialized.
+[2022.01.23-21.35.55:367][907]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.01.23-21.35.55:379][907]LogLoad: Game class is 'GameModeBase'
+[2022.01.23-21.35.55:384][907]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.01.24-04.35.55
+[2022.01.23-21.35.55:387][907]LogWorld: Bringing up level for play took: 0.007424
+[2022.01.23-21.35.55:387][907]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.01.23-21.35.55:391][907]LogBlueprintUserMessages: [BP_Storage_Component] Hello
+[2022.01.23-21.35.55:391][907]LogBlueprintUserMessages: [BP_Storage_Component] Hello
+[2022.01.23-21.35.55:391][907]LogBlueprintUserMessages: [BP_Storage_Component] Hello
+[2022.01.23-21.35.55:392][907]PIE: Server logged in
+[2022.01.23-21.35.55:393][907]PIE: Play in editor total start time 0,107 seconds.
+[2022.01.23-21.36.19:348][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-21.36.19:348][195]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.01.23-21.36.19:349][195]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-21.36.19:350][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.36.19:374][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.23-21.36.19:386][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-21.36.19:418][195]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.23-21.36.19:419][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-21.36.19:421][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.23-21.36.19:424][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.23-21.36.19:428][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.01.23-21.36.19:478][196]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.01.23-21.36.21:376][257]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Storage/Weapon/Fire/Rifle/BP_Rifle_AK47.BP_Rifle_AK47
+[2022.01.23-21.36.52:522][729]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Components/BP_Storage_Component.BP_Storage_Component
+[2022.01.23-21.38.32:659][678]BlueprintLog: New page: Compile BP_Storage_Component
+[2022.01.23-21.38.32:696][678]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.01.23-21.38.32:755][678]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.059 s
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: === Handled ensure: ===
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: 
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: Ensure condition failed: !FBlueprintCompileReinstancer::IsReinstClass(OwnerClass) [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetReinstanceUtilities.cpp] [Line: 1763]
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: OwnerClass should not be 'REINST_'! This means that a REINST class was parented to another REINST class, causing unwanted recursion!
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: Stack: 
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff07df48c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0760bd78 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0603e3bd UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0603e501 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff06014627 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff05fbc02f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff05fbbd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff075e00de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff060bee7c UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff060dca46 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0af7cf28 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0afa2082 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0af7ca87 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0b01a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0b03280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0ae8421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0aefe104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0aee7097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff0aed9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff18f9c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff18f892b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff18f9e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff18f84410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff6ae71c4c USER32.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff6ae70ea6 USER32.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff18f9fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007ff71a887621 UE4Editor.exe!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007ff71a8a0fcc UE4Editor.exe!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007ff71a8a10ba UE4Editor.exe!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007ff71a8a40dd UE4Editor.exe!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007ff71a8b5984 UE4Editor.exe!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007ff71a8b853a UE4Editor.exe!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff69fc54e0 KERNEL32.DLL!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: [Callstack] 0x00007fff6b62485b ntdll.dll!UnknownFunction []
+[2022.01.23-21.38.32:755][678]LogOutputDevice: Error: 
